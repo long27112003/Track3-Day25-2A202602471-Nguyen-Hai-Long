@@ -1,6 +1,6 @@
 # Lab 25B — Báo cáo Game Day
 
-**Họ tên / nhóm:** Nguyễn Hải Long (202602471)  **Commit:** `ef05e56`  **Điểm tự động (`make grade`):** 84.0 / 88
+**Họ tên / nhóm:** Nguyễn Hải Long (2A202602471)  **Commit:** `ef05e56`  **Điểm tự động (`make grade`):** 84.0 / 88
 **Điểm tự động công khai:** 84/84 điểm có thể kiểm chứng tại máy (84/88 theo thang điểm tự động; 4 điểm SLO ẩn do giảng viên chấm). **Chấm tay:** tối đa 12 điểm, chưa có kết quả.
 **Cách tái lập:** `python scripts/grade.py --seeds 25,26,27`; các bảng chi tiết dùng seed 25 từ `run_gameday.py --client both --seed 25`, `run_workflows.py --executor both`, `run_slo.py --alerter both` và băng C1.
 

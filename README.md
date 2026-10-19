@@ -1,5 +1,7 @@
 # Lab 25B — Game Day: Retry Storm, Circuit Breaker, Cache, Idempotency & Error Budget
 
+**Học viên:** Nguyễn Hải Long · **Mã học viên:** 2A202602471
+
 **AICB-P2T3 · Ngày 25 · Circuit Breakers, Caching & Reliability for Production Agents**
 
 > Bạn vào vai **on-call** của ShopAgent: bản v1 đang chạy production vừa sập vì một retry storm.
